@@ -21,7 +21,7 @@ public class clinica {
 	public void setDataDeCadastro(Calendar dataDeCadastro) {
 		DataDeCadastro = dataDeCadastro;
 	}
-
+	// Ruan é Top Programer
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int Id;
